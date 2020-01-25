@@ -18,7 +18,7 @@ def shipping_manifest
     "oil paintings" => 3
   }
 
-binding.pry
+
 
 end
 
