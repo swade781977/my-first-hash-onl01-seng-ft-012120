@@ -1,4 +1,4 @@
-require 'Pry'
+require 'pry'
 def my_hash
   my_hash = {
     "husband" => "Chris",
@@ -18,7 +18,7 @@ def shipping_manifest
     "oil paintings" => 3
   }
 
-binding pry
+binding.pry
 
 end
 
